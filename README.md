@@ -16,4 +16,4 @@ Splunk • Snort • Windows • Linux • PowerShell • Microsoft 365 • Entr
 
 ## Connect
 
-[LinkedIn](linkedin.com/molly-ussery)
+([LinkedIn](https://www.linkedin.com/in/mollybbussery/))
