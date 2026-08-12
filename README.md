@@ -18,4 +18,4 @@ Watch Demo | Lab Architecture | Project Overview | PowerShell Logging | Test Eve
 
 ## Connect
 
-🔑 [LinkedIn](https://www.linkedin.com/in/mollybbussery/) | [Portfolio](https://mbbu-beep.github.io/) | [Senior Project Demo](documentation/video-demo.md)🔒
+🔑 [LinkedIn](https://www.linkedin.com/in/mollybbussery/) | [Portfolio](https://mbbu-beep.github.io/) | [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab/blob/main/documentation/video-demo.md)🔒
