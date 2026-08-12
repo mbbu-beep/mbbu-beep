@@ -8,7 +8,7 @@ cloud security, and practical security for small businesses.
 | Project | Focus |
 |---|---|
 | [Splunk & Snort SOC Lab](https://github.com/mbbu-beep/splunk-snort-soc-lab) | SIEM, IDS, log collection, event investigation |
-| [Cybersecurity Blogs](https://github.com/mbbu-beep/cybersecurity-blogs) | Personal and small-business security guidance |
+| [Cybersecurity Insights](https://github.com/mbbu-beep/cybersecurity-blogs) | Personal and small-business security guidance |
 
 ## Technical Focus
 
